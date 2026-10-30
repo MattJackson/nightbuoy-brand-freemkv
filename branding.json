@@ -1,0 +1,13 @@
+{
+  "name": "freemkv",
+  "home": "https://freemkv.org",
+  "logo": "logo.svg",
+  "favicon": "logo.svg",
+  "css": "theme.css",
+  "tagline": "Community-owned conversations.",
+  "links": [
+    {"label":"Docs","href":"https://freemkv.org/docs/overview/"},
+    {"label":"Software","href":"https://freemkv.org/download/"},
+    {"label":"Firmware","href":"https://freemkv.org/firmware/"}
+  ]
+}

@@ -1,0 +1,7 @@
+# Apply only after installing the standard NightBuoy development environment.
+services:
+  node1:
+    environment:
+      NIGHTBUOY_BRANDING_DIR: /branding-package
+    volumes:
+      - ${NIGHTBUOY_BRANDING_PACKAGE:?Set the absolute path to this package}:/branding-package:ro
